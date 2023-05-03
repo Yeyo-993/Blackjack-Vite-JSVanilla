@@ -9,3 +9,5 @@ Pasos para ejecutar el proyecto:
 ## Producción
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desglegar
+
+![image](https://user-images.githubusercontent.com/78166827/235817525-9a8b0276-60a7-47c1-ba8b-26e2806e037a.png)
